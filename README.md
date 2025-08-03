@@ -45,7 +45,7 @@ URL_SHORTENER/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/RajGauravTiwari
+git clone https://github.com/RajGauravTiwari](https://github.com/AYUSHSHARMA9817/URL---Shortner.git
 /URL_SHORTENER.git
 cd URL_SHORTENER
 ```
